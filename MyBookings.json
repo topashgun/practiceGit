@@ -1,0 +1,92 @@
+[
+  {
+    "bookingid": "WJCZ4NL",
+    "qr": "https://apidevvista.muvicinemas.com/bqr/v1/qr?token=eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldKQ1o0TkwiLCJleHAiOjE2MTU1ODg4MDAsInR5cGUiOiJxciIsImlhdCI6MTYxNTQ0NjcxOH0.bsLnXXSWubec-gZbsyP9LnotA3aYxnotWX9W9nGkfX010CZDJ9JSnDEcQIQspqXmAc9DGyVgR9vQ28fBFqO4okJWrTrwoJSCDjVN-T0BEwX3uFUGCGzpqACWZ30is1FLbMQhc122dPRuNG4rOqTfAz06159sbPxzUPPvv3iXNbQ",
+    "bookingFee": 10,
+    "value": 130,
+    "status": null,
+    "ratings": "R18",
+    "runtime": "100",
+    "title": "Horizon Line - TEST",
+    "cinemaname": "Al Hamra Mall",
+    "screenname": "Screen 1",
+    "genre": "Crime, Adventure",
+    "language": "Arabic",
+    "images": "https://apidevvista.muvicinemas.com/inchargeassets/images/uploads/images/films/a9662eb0-2cee-470b-a29c-3a4f06a37635.jpeg",
+    "date": "2021-03-12T00:00:00.000Z",
+    "time": "2021-03-12T20:40:00.000Z",
+    "formats": "2D",
+    "subtitles": "",
+    "experiences": "Standard -TEST",
+    "timezone": "Asia/Riyadh",
+    "seats": "K16, D6",
+    "orderDetails": [
+      {
+        "tax": 0,
+        "code": "0001",
+        "type": "TICKET",
+        "price": 55,
+        "seats": "K16",
+        "quantity": 1,
+        "taxValue": 0,
+        "unitprice": 55,
+        "description": "Muvi Standard",
+        "priceincents": 5500,
+        "additionalInfo": {},
+        "pricebeforetax": 0
+      },
+      {
+        "tax": 0,
+        "code": "0002",
+        "type": "TICKET",
+        "price": 65,
+        "seats": "D6",
+        "quantity": 1,
+        "taxValue": 0,
+        "unitprice": 65,
+        "description": "Muvi Premium",
+        "priceincents": 6500,
+        "additionalInfo": {},
+        "pricebeforetax": 0
+      }
+    ]
+  },
+  {
+    "bookingid": "WPQCRB4",
+    "qr": "https://apidevvista.muvicinemas.com/bqr/v1/qr?token=eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJpZCI6IldQUUNSQjQiLCJleHAiOjE2MTU1MDI0MDAsInR5cGUiOiJxciIsImlhdCI6MTYxNTI3Mjk1Mn0.J6ur4R6RspRka5e1BQHFrpDSS5-SFR6X95Nv9wviSJee5QaOz6zt0i7NDsI0U1oZ90FTkDk16n_IRDKMfS26byUHvLkG0CAL1fiS7sRfT9bG2Aj9bsKav_YfmALRcs86RikYwrIZAdy6EWuAmCnBASFdqxalKWdvlZhjygZYme8",
+    "bookingFee": 10,
+    "value": 120,
+    "status": null,
+    "ratings": "R18",
+    "runtime": "100",
+    "title": "Horizon Line - TEST",
+    "cinemaname": "Al Hamra Mall",
+    "screenname": "Screen 1",
+    "genre": "Crime, Adventure",
+    "language": "Arabic",
+    "images": "https://apidevvista.muvicinemas.com/inchargeassets/images/uploads/images/films/a9662eb0-2cee-470b-a29c-3a4f06a37635.jpeg",
+    "date": "2021-03-11T00:00:00.000Z",
+    "time": "2021-03-11T20:40:00.000Z",
+    "formats": "2D",
+    "subtitles": "",
+    "experiences": "Standard -TEST",
+    "timezone": "Asia/Riyadh",
+    "seats": "K14, J14",
+    "orderDetails": [
+      {
+        "tax": 0,
+        "code": "0001",
+        "type": "TICKET",
+        "price": 110,
+        "seats": "K14, J14",
+        "quantity": 2,
+        "taxValue": 0,
+        "unitprice": 55,
+        "description": "Muvi Standard",
+        "priceincents": 11000,
+        "additionalInfo": {},
+        "pricebeforetax": 0
+      }
+    ]
+  }
+]
